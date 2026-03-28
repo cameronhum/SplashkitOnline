@@ -36,7 +36,7 @@ const themes = {
     "editorLineNumber": "#FFFFF0",
     "editorGutterBackground": "#dcdcdc",
     "editorString": "#fdfdfd",
-      "editorSelected": "rgba(255, 255, 255, 0.335)",
+    "editorSelected": "rgba(255, 255, 255, 0.335)",
     "editorNumber": "#BF95F9"
   },
   "professional-grey": {
